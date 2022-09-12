@@ -62,7 +62,7 @@ def getData():
 def sendmail(name,to):  
     print(f"sending msg to {name}..")
     GMAIL_ID = 'suyoglate555@gmail.com'
-    GMAIL_PWD = 'kqwdcdqdxxhzhvru'
+    GMAIL_PWD = 'gmailapppassword'
 
     msg = f'Dear {name},\n\nWish you a very happy birthday..! \n\n\t\t\t\t\t-Suyog'
 
